@@ -1,0 +1,13 @@
+name = "Horizon's End Official Modpack"
+author = "Peter Crawley"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7734a88a01be7760b10f15cf1fa5c1e50b4d1ce690bebab34fba4c735c72fd58"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5"
