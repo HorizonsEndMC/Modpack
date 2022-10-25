@@ -1,0 +1,13 @@
+{
+  // The packs to be loaded by resclone
+  "packs": [
+    {
+      "fetcher": "github",
+      "source": "HorizonsEndMC/ResourcePack",
+      "name": "Horizon's End",
+      "forceEnable": true
+    }
+  ],
+  // Whether to prune unused packs from the cache
+  "pruneUnused": true
+}

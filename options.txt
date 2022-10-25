@@ -1,0 +1,17 @@
+autoJump:false
+bobView:false
+darkMojangStudiosBackground:true
+gamma:1.0
+renderDistance:10
+simulationDistance:10
+entityDistanceScaling:5.0
+guiScale:2
+maxFps:60
+graphicsMode:2
+prioritizeChunkUpdates:1
+biomeBlendRadius:7
+renderClouds:"false"
+resourcePacks:["vanilla","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","resclone/Horizon\u0027s End"]
+skipMultiplayerWarning:true
+joinedFirstServer:true
+showAutosaveIndicator:false
